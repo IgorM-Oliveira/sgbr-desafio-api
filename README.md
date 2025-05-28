@@ -6,7 +6,7 @@ API RESTful para gerenciar lugares (places), desenvolvida com Laravel 12, Postgr
 
 - Docker e Docker Compose
 
-## 🐳 Instruções para rodar com Docker (Laravel Sail)
+## Instruções para rodar com Docker (Laravel Sail)
 
 1. **Instalar dependências**
    ```bash
